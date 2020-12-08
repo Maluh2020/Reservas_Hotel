@@ -1,0 +1,13 @@
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Reservas_Hotel\Reservas_Hotel\bin\Debug\netcoreapp3.1\Reservas_Hotel.exe
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Reservas_Hotel\Reservas_Hotel\bin\Debug\netcoreapp3.1\Reservas_Hotel.deps.json
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Reservas_Hotel\Reservas_Hotel\bin\Debug\netcoreapp3.1\Reservas_Hotel.runtimeconfig.json
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Reservas_Hotel\Reservas_Hotel\bin\Debug\netcoreapp3.1\Reservas_Hotel.runtimeconfig.dev.json
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Reservas_Hotel\Reservas_Hotel\bin\Debug\netcoreapp3.1\Reservas_Hotel.dll
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Reservas_Hotel\Reservas_Hotel\bin\Debug\netcoreapp3.1\Reservas_Hotel.pdb
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Reservas_Hotel\Reservas_Hotel\obj\Debug\netcoreapp3.1\Reservas_Hotel.csprojAssemblyReference.cache
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Reservas_Hotel\Reservas_Hotel\obj\Debug\netcoreapp3.1\Reservas_Hotel.AssemblyInfoInputs.cache
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Reservas_Hotel\Reservas_Hotel\obj\Debug\netcoreapp3.1\Reservas_Hotel.AssemblyInfo.cs
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Reservas_Hotel\Reservas_Hotel\obj\Debug\netcoreapp3.1\Reservas_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Reservas_Hotel\Reservas_Hotel\obj\Debug\netcoreapp3.1\Reservas_Hotel.dll
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Reservas_Hotel\Reservas_Hotel\obj\Debug\netcoreapp3.1\Reservas_Hotel.pdb
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Reservas_Hotel\Reservas_Hotel\obj\Debug\netcoreapp3.1\Reservas_Hotel.genruntimeconfig.cache
