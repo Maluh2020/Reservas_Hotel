@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Reservas_Hotel.Entities.Exceptions;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -14,17 +15,38 @@ namespace Reservas_Hotel.Entities
         {
         }
 
-        public Reservation(int roomNumber, DateTime checkin, DateTime checkout)
+        public Reservation(int roomNumber, DateTime checkIn, DateTime checkOut)
         {
+            if (checkOut <= checkIn)
+            {
+                throw new DomainException("Check-out date must be after check-in date");
+            }
+
             RoomNumber = roomNumber;
-            CheckIn = checkin;
-            CheckOut = checkout;
+            CheckIn = checkIn;
+            CheckOut = checkOut;
         }
 
         public int Duration()
         {
             TimeSpan duration = CheckOut.Subtract(CheckIn);
             return (int)duration.TotalDays;
+        }
+
+        public void UpdateDates (DateTime checkIn, DateTime checkOut)
+        {
+            DateTime now = DateTime.Now;
+            if (checkIn < now || checkOut < now)
+            {
+                throw new DomainException("reservation: reservation dates for updates must be future dates");
+            }
+            if (checkOut <= checkIn)
+            {
+                throw new DomainException ( "Check-out date must be after check-in date");
+            }
+            CheckIn = checkIn;
+            CheckOut = checkOut;
+           
         }
 
         public override string ToString()
