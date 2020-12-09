@@ -39,6 +39,10 @@ namespace Reservas_Hotel
             {
                 Console.WriteLine("Format error: " + e.Message );
             }
+            catch(Exception e)
+            {
+                Console.WriteLine("Unexpected error: " + e.Message);
+            }
 
         }
     }
